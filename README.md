@@ -1,6 +1,6 @@
 # Twitter-redesign
 
-> This project is based on a redesign of Twitter. You can create a user, tweet about birds and follow people you like!
+> This project is based on a redesign of Twitter. You can create a user, tweet about and follow people you like!
 
 
 ## Features
