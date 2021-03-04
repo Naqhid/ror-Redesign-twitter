@@ -2,13 +2,6 @@
 
 > This project is based on a redesign of Twitter. You can create a user, tweet about birds and follow people you like!
 
-## Views
-
-![Login Path](/public/signin.png)
-![Signup Path](/public/signup.png)
-![Home Path](/public/home.png)
-![Profile Path](/public/profile.png)
-![Edit Path](/public/edit.png)
 
 ## Features
 
@@ -29,18 +22,8 @@
 
 ## Built With
 
-- Ruby v2.7.0
-- Ruby on Rails v5.2.4
-
-## Live Demo
-
-[Live Demo Version](https://nameless-mesa-62075.herokuapp.com/)
-
-### Prerequisites
-
-Ruby: 2.6.3
-Rails: 5.2.3
-Postgres: >=9.5
+- Ruby 
+- Ruby on Rails 
 
 ### Setup
 
@@ -82,12 +65,6 @@ Open `http://localhost:3000/` in your browser.
 - Twitter: [Naqhid](https://twitter.com/naqhid)
 - LinkedIn: [Naqhid](https://www.linkedin.com/in/mohammed-naqhid-ab3080189/)
 - Email: mnaqhid@gmail.com
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
 
 ## Show your support
 
