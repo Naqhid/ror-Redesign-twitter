@@ -1,6 +1,6 @@
 # Twitter-redesign
 
-> This project is based on a redesign of Twitter. You can create a user, tweet about birds and follow people you like!
+> This project is based on a redesign of Twitter. You can create a user, tweet about and follow people you like!
 
 
 ## Features
@@ -51,13 +51,6 @@ Start server with:
 
 Open `http://localhost:3000/` in your browser.
 
-### Run tests
-
-```
-    rpsec --format documentation
-```
-
-> Tests will be added by Microverse students. There are no tests for initial features in order to make sure that students write all tests from scratch.
 
 👤 **Mohammed Naqhid**
 
