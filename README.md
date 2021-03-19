@@ -20,6 +20,26 @@
       - Stats: total number of tweets, number of followers and number of following users.
       - List of people who follow this user
 
+## Preview
+
+### Login Page
+
+![Login-page](https://ibb.co/61NsyQc)
+
+### Index Page
+
+![image](https://user-images.githubusercontent.com/57812000/90253649-18c62e80-de07-11ea-9c73-90dec5a30a25.png)
+
+### Show Page
+
+![Coding-show](https://user-images.githubusercontent.com/57812000/90254038-bb7ead00-de07-11ea-9fe3-798d36ca805e.png)
+
+### Sign Up Page
+
+![Sign-up-page1](https://user-images.githubusercontent.com/57812000/90254353-35af3180-de08-11ea-9cf8-ae66e6b46195.png)
+
+
+
 ## Video Presentation
 
   Live link(https://www.youtube.com/watch?v=tY82vREXay0&t=46s)
