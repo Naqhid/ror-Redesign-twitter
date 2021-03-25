@@ -20,9 +20,11 @@
       - Stats: total number of tweets, number of followers and number of following users.
       - List of people who follow this user
 
-### Login Page
+## Screenshots
 
 ![Login-page](https://user-images.githubusercontent.com/33901719/112461049-91ba3b00-8d85-11eb-8268-923d7995e669.png)
+(https://user-images.githubusercontent.com/33901719/112461754-43596c00-8d86-11eb-8d73-750d6e11059d.png)
+
 
 
 ## Video Presentation
