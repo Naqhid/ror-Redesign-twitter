@@ -20,23 +20,15 @@
       - Stats: total number of tweets, number of followers and number of following users.
       - List of people who follow this user
 
-## Preview
+## Screenshots
 
-### Login Page
+![Login-page](https://user-images.githubusercontent.com/33901719/112461049-91ba3b00-8d85-11eb-8268-923d7995e669.png)
+![image](https://user-images.githubusercontent.com/33901719/112461754-43596c00-8d86-11eb-8d73-750d6e11059d.png)
+![Show](https://user-images.githubusercontent.com/33901719/112462223-d397b100-8d86-11eb-9f53-3172176024b2.png)
+![Sign-up-page1](https://user-images.githubusercontent.com/33901719/112462516-240f0e80-8d87-11eb-912b-157724b278a4.png)
 
-![Login-page](https://ibb.co/61NsyQc)
 
-### Index Page
 
-![image](https://user-images.githubusercontent.com/57812000/90253649-18c62e80-de07-11ea-9c73-90dec5a30a25.png)
-
-### Show Page
-
-![Coding-show](https://user-images.githubusercontent.com/57812000/90254038-bb7ead00-de07-11ea-9fe3-798d36ca805e.png)
-
-### Sign Up Page
-
-![Sign-up-page1](https://user-images.githubusercontent.com/57812000/90254353-35af3180-de08-11ea-9cf8-ae66e6b46195.png)
 
 
 
