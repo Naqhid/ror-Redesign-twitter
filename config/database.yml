@@ -9,7 +9,7 @@ default: &default
   encoding: unicode
   username: postgres
   password: naqhid@123
-  # url: postgresql://localhost:5432/postgres
+  url: postgresql://localhost:5432/postgres
   pool: 5
   timeout: 5000
 
