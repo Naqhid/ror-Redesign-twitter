@@ -1,5 +1,5 @@
 class SessionsController < ApplicationController
-	def new
+  def new
     redirect_to users_path(session[:current_user_id]) if session[:current_user]
   end
 
